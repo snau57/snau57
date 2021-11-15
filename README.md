@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Wu.
+- 👀 I’m interested in learning programing.
+- 🌱 I’m currently learning web development and android application design.
+- 📫 My email is snau57@gmail.com
